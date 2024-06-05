@@ -7,7 +7,7 @@
 
 
 
-- [Код](https://github.com/ppc-ntu-khpi/gui-swing-Barni135/tree/master/TuiDemo)
+- [Код](https://github.com/ppc-ntu-khpi/gui-matisse-Barni135/tree/master/TuiDemo/src/com/mybank/gui)
 
 
 
